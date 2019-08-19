@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>pbagnpg@znedhvfxheg.arg</string>
+	<key>contactName</key>
+	<string>Marquis Kurt</string>
+	<key>description</key>
+	<string>Support for the Ren'Py language. Ported from the Atom package.</string>
+	<key>name</key>
+	<string>Ren'Py</string>
+	<key>uuid</key>
+	<string>707F130F-EE77-4774-82D5-6230B7C69657</string>
+</dict>
+</plist>
